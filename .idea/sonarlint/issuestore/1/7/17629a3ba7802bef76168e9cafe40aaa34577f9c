@@ -1,0 +1,30 @@
+
+L
+java:S3740
+"/Provide the parametrized type for this generic.(ö€Ö8áš²ÁŒ1
+L
+java:S3740
+"/Provide the parametrized type for this generic.(ö€Ö8âš²ÁŒ1
+K
+java:S3740."/Provide the parametrized type for this generic.(àôò8âš²ÁŒ1
+K
+java:S3740."/Provide the parametrized type for this generic.(àôò8âš²ÁŒ1
+Q
+java:S37403"/Provide the parametrized type for this generic.(Ž§˜ øÿÿÿÿ8âš²ÁŒ1
+W
+java:S1854,":Remove this useless assignment to local variable "namee2".(š‰Ì­8èš²ÁŒ1
+[
+java:S1854%">Remove this useless assignment to local variable "startDate1".(”…ÌÑ8èš²ÁŒ1
+[
+java:S1854"9Remove this useless assignment to local variable "name2".(³Ô¬‹üÿÿÿÿ8èš²ÁŒ1
+L
+java:S1481"*Remove this unused "name2" local variable.(³Ô¬‹üÿÿÿÿ8êš²ÁŒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(…“Úöúÿÿÿÿ8ëš²ÁŒ1
+L
+java:S1481%"/Remove this unused "startDate1" local variable.(”…ÌÑ8ëš²ÁŒ1
+X	java:S125)"<This block of commented-out lines of code should be removed.(í¨×¢8ìš²ÁŒ1
+H
+java:S1481,"+Remove this unused "namee2" local variable.(š‰Ì­8ìš²ÁŒ1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(±žÖ•8ìš²ÁŒ1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(•ðüÙ8æ–³ÁŒ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8¨«µÁŒ1

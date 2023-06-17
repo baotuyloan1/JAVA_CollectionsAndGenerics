@@ -1,0 +1,19 @@
+
+Q
+!com/baonguyen/GenericExample.java,1\7\17629a3ba7802bef76168e9cafe40aaa34577f9c
+O
+com/baonguyen/generic/Pair.java,9\b\9bee92b01c78d1f75a4adf3e90ee233a37e1fbad
+P
+ com/baonguyen/generic/Color.java,0\9\0911d86cabd78cb4f293c923e9d7f0c0d1e3371b
+T
+$com/baonguyen/generic/Professor.java,a\7\a70eb72ce9b28ebc13ccfc451325e59711cfba2d
+U
+%com/baonguyen/generic/GeneralDAO.java,0\8\0894fbab289b0fe5bb18f58d62ca506a00f01e6f
+W
+'com/baonguyen/generic/ProfessorDAO.java,7\b\7b82e72e679beced8f0e79f3fe95986f081b4656
+U
+%com/baonguyen/generic/StudentDAO.java,0\8\08b40a5f46692df15d17e5fe73d57b6fa0cc751f
+R
+"com/baonguyen/generic/Student.java,2\e\2e35d9e9289b07c1498a5f8bb315ae18d984d52e
+Q
+!com/baonguyen/generic/People.java,e\1\e120ccf11717e32939b6971c6007c75e79393e6f
