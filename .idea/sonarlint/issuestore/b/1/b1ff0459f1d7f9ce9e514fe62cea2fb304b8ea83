@@ -1,0 +1,13 @@
+
+]
+java:S1854"@Remove this useless assignment to local variable "oldProfessor".(ò³¬8Ñ†òÂŒ1
+Z
+java:S1854	">Remove this useless assignment to local variable "oldStudent".(Êâøv8Ò†òÂŒ1
+K
+java:S1481	"/Remove this unused "oldStudent" local variable.(Êâøv8Ô†òÂŒ1
+N
+java:S1481"1Remove this unused "oldProfessor" local variable.(ò³¬8×†òÂŒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(°–êùÿÿÿÿ8×†òÂŒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŞ8Ø†òÂŒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Á Å€8ÇçòÂŒ1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¦õõ¦úÿÿÿÿ8ÏÂõÂŒ1
