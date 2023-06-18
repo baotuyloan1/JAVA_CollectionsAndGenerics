@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÇæëëŒ1
+h
+java:S1192"KDefine a constant instead of duplicating this literal "2023-06-18" 5 times.(“Ãéß8ÉæëëŒ1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "18IT5" 4 times.(–‚Õ“8ÉæëëŒ1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "18IT1" 4 times.(“Ãéß8ÊæëëŒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âÿŸÉÿÿÿÿÿ8²äëŒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„íí8ÑîåëŒ1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(åç…¯8„ËéëŒ1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(„íí8øæëëŒ1

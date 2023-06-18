@@ -75,5 +75,12 @@ public class NavigableSetExample {
 
     SortedSet<Employee> goodPaidEmployees = setEmployees.subSet(new Employee(70000),new Employee(60000));
     System.out.println("Good paid employees: " + goodPaidEmployees);
+    System.out.println(goodPaidEmployees);
+
+//    treeSet không thể chưa null vì khi chứa null thì làm sao nó có thể gọi compareTo để nó so sánh giá trị
+//    sẽ bắn ra lỗi : Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.lang.Comparable.compareTo(Object)" because "k1" is null
+//    Set<Employee> nullSet = new TreeSet<>();
+//    nullSet.add(null);
+//    nullSet.add(new Employee(23123));
   }
 }
