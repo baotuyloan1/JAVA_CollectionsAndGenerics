@@ -1,0 +1,19 @@
+
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èĞ¾Â8üçÚõŒ1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(±“îÃ8“èÚõŒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óÌÊ÷şÿÿÿÿ8“èÚõŒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÑˆ”8“èÚõŒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıãÛ8“èÚõŒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†¿á¼úÿÿÿÿ8“èÚõŒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8“èÚõŒ1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ş›âÿ8”èÚõŒ1
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(¢Äí^8”èÚõŒ1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(œÈ¶Àúÿÿÿÿ8”èÚõŒ1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(âÇ®¥8”èÚõŒ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¹ñ½ùÿÿÿÿ8•èÚõŒ1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(÷­Šöşÿÿÿÿ8•èÚõŒ1
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ÛÄ´Ã8•èÚõŒ1
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(÷Í”ş8¢«ÛõŒ1
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(áŠá™8û¿×÷Œ1
+X	java:S125R"<This block of commented-out lines of code should be removed.(†¶†Ú8›½á÷Œ1

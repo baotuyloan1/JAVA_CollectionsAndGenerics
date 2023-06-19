@@ -128,7 +128,7 @@ public class SortedMapAndTreeMap {
     mapHttpStatusReserve1.put(403, "Forbidden");
     mapHttpStatusReserve1.put(404, "Not Found");
 
-    mapHttpStatusReserve1.put(500, "Internal Server Error");
+    mapHttpStatusReserve1.put(500, "Internal Server Eror");
     mapHttpStatusReserve1.put(501, "Not Implemented");
     mapHttpStatusReserve1.put(502, "Bad Gateway");
     System.out.println(mapHttpStatusReserve1);
